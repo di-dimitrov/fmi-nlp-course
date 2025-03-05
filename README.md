@@ -1,1 +1,3 @@
-# fmi-nlp-course
+# FMI NLP (OZT) Course Labs
+
+## Resources
