@@ -11,7 +11,7 @@ Participate in **ImageCLEF MultimodalReason** competition. Follow the instructio
 * Submit your results in the official leaderboard.
 * Write short description of the approach(es)
 
-**Deadline:** 14th of April
+**Deadline:** 21th of April
 
 **Teams are not allowed!**
 **Code generation is allowed!**
@@ -24,5 +24,6 @@ Participate in **ImageCLEF MultimodalReason** competition. Follow the instructio
 * 4MI3010212.zip
 
 **Submission location:** FMI OZT moodle.
+
 
 
