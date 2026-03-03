@@ -1,6 +1,6 @@
 # Homework assignment #1
 
-## Name: Automatic question answering: The reasoning classic
+## Name: Automatic question answering
 
 Participate in **ImageCLEF MultimodalReason** competition. Follow the instructions on the official task website ([https://www.imageclef.org/2026/multimodalreasoning](https://mbzuai-nlp.github.io/ImageCLEF-MultimodalReasoning/2026):
 
@@ -24,4 +24,5 @@ Participate in **ImageCLEF MultimodalReason** competition. Follow the instructio
 * 4MI3010212.zip
 
 **Submission location:** FMI OZT moodle.
+
 
