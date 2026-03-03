@@ -2,7 +2,7 @@
 
 ## Name: Automatic question answering
 
-Participate in **ImageCLEF MultimodalReason** competition. Follow the instructions on the official task website ([https://www.imageclef.org/2026/multimodalreasoning](https://mbzuai-nlp.github.io/ImageCLEF-MultimodalReasoning/2026):
+Participate in **ImageCLEF MultimodalReason** competition. Follow the instructions on the official task website ([https://www.imageclef.org/2026/multimodalreasoning](https://mbzuai-nlp.github.io/ImageCLEF-MultimodalReasoning/2026)):
 
 * Register for the task - follow the instructions and select ImageCLEF lab. You are free to select others if you want to participate separately from the homework.
 * Choose a task you want to participate in: MCQ or OpenQA.
@@ -24,6 +24,7 @@ Participate in **ImageCLEF MultimodalReason** competition. Follow the instructio
 * 4MI3010212.zip
 
 **Submission location:** FMI OZT moodle.
+
 
 
 
