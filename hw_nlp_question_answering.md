@@ -1,4 +1,4 @@
-# Homework assignment #1
+# Homework assignment #2
 
 ## Name: Automatic question answering
 
